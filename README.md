@@ -13,7 +13,7 @@
 
 #### However, there is another side to sports that is not just wins, losses, and championships. For some people it is their job to perform, and a lot of recent headlines have been bringing to light what the cost of performance is, as well as the monetary dealings of the sports industry as a whole. However, those headlines have also highlighted the just how lopsided athletes across the board are compensated.
 
-####Through this project, I look at several professional sports leagues and work through comparisons among leagues, gender, and international compensations using the Top 100 Active Contracts for each league loaded into an exploratory dashboard. The tool has the goal to aid the user determining what, if any, factors affect or influence the wage gap among these professional athletes. Specifically, team success, generated revenue, and position.
+#### Through this project, I look at several professional sports leagues and work through comparisons among leagues, gender, and international compensations using the Top 100 Active Contracts for each league loaded into an exploratory dashboard. The tool has the goal to aid the user determining what, if any, factors affect or influence the wage gap among these professional athletes. Specifically, team success, generated revenue, and position.
 
 ## Technologies
 #### Google Sheets and Excel were used for extraction and cleaning, and Python 3 within Jupyter Notebook was used for data exploration. All data with the exception of data pertaining to the MLS was extracted at https://www.spotrac.com/ as CSV files. MLS data was extracted directly from https://mlsplayers.org/resources/salary-guide
